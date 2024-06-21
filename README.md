@@ -7,4 +7,9 @@ $ python3 App.py
 - numpy
 - PIL
 
+**Description:-**
+
 The project is a simulator for Reed Solomon encoding and decoding. The decoding is of cubic complexity and employs Berlekamp Welch algorithm for the same. 
+
+**Some screenshots from the app:-**
+
