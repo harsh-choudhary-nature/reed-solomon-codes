@@ -13,10 +13,10 @@ The project is a simulator for Reed Solomon encoding and decoding. The decoding 
 
 **Some screenshots from the app:-**
 
-<img src="https://github.com/harsh-choudhary-nature/reed-solomon-codes/blob/main/images%20for%20readme/Screenshot%202024-06-21%20192105.png" alt="Main Page" width="50%" height="100%">
-<img src="https://github.com/harsh-choudhary-nature/reed-solomon-codes/blob/main/images%20for%20readme/Screenshot%202024-06-21%20192105.png" alt="Main Page" width="50%" height="100%">
-<img src="https://github.com/harsh-choudhary-nature/reed-solomon-codes/blob/main/images%20for%20readme/Screenshot%202024-06-21%20192105.png" alt="Main Page" width="50%" height="100%">
-<img src="https://github.com/harsh-choudhary-nature/reed-solomon-codes/blob/main/images%20for%20readme/Screenshot%202024-06-21%20192105.png" alt="Main Page" width="50%" height="100%">
+<img src="https://github.com/harsh-choudhary-nature/reed-solomon-codes/blob/main/images%20for%20readme/Screenshot%202024-06-21%20192105.png" alt="Main Page" width="50%">
+<img src="https://github.com/harsh-choudhary-nature/reed-solomon-codes/blob/main/images%20for%20readme/Screenshot%20(69).png" alt="Sender" width="50%">
+<img src="https://github.com/harsh-choudhary-nature/reed-solomon-codes/blob/main/images%20for%20readme/Screenshot%20(70).png" alt="Main Page" width="50%">
+<img src="https://github.com/harsh-choudhary-nature/reed-solomon-codes/blob/main/images%20for%20readme/Screenshot%20(71).png" alt="Main Page" width="50%">
 ![Sender](https://github.com/harsh-choudhary-nature/reed-solomon-codes/blob/main/images%20for%20readme/Screenshot%20(69).png)
 ![Environment](https://github.com/harsh-choudhary-nature/reed-solomon-codes/blob/main/images%20for%20readme/Screenshot%20(70).png)
 ![Receiver](https://github.com/harsh-choudhary-nature/reed-solomon-codes/blob/main/images%20for%20readme/Screenshot%20(71).png)
